@@ -2,3 +2,6 @@
 
 This repo contains all of my emacs package that I manage manually.
 The packages contain here most likely are not registered by emacs package registry such as Elpa and Melpa.
+
+Well, I just found out that this is what recipe in straight.el use. I might not even need this repo at all.
+Still, I will keep it for a few months. If no need, bye bye.
