@@ -1,0 +1,4 @@
+#+title: Readme
+
+This repo contains all of my emacs package that I manage manually.
+The packages contain here most likely are not registered by emacs package registry such as Elpa and Melpa.
